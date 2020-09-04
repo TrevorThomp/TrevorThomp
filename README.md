@@ -1,6 +1,6 @@
 <h1>Trevor Thompson-@TrevorThomp</h1>
 
-Hi, I'm Trevor-a software engineer at BMSTechnologies. Some technologies I enjoy working with ReactJS, API's, .NET and GraphQL. 
+Hi, I'm Trevor-a software engineer at BMSTechnologies. Some technologies I enjoy working with: ReactJS, API's, .NET and GraphQL. 
 
 
 
