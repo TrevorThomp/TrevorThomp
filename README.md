@@ -7,5 +7,4 @@ My specialties include quickly learning new skills and programming languages, pr
 <h2>Let's connect</h2>
 
 * LinkedIn : <a href="https://twitter.com/ThompTrevor">https://www.linkedin.com/in/trevorthomp/</a>
-* Twitter: <a href="https://twitter.com/ThompTrevor">https://twitter.com/ThompTrevor</a>
 * Personal Site: <a href="https://trevorthompson.dev">https://trevorthompson.dev</a>
